@@ -8,7 +8,7 @@
   "license": "MIT OR Apache-2.0",
   "author": "The OpenINF Authors",
   "devDependencies": {
-    "@types/node": "20.x.x",
+    "@types/node": "22.x",
     "typescript": "5.1.3"
   }
 }
