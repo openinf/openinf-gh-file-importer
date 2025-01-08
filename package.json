@@ -9,6 +9,6 @@
   "author": "The OpenINF Authors",
   "devDependencies": {
     "@types/node": "20.x.x",
-    "typescript": "5.1.3"
+    "typescript": "5.7.3"
   }
 }
