@@ -4,7 +4,7 @@
   "version": "0.0.0-development",
   "description": "Package-based monorepo for @openinf/gh-file-importer and friends",
   "workspaces": ["packages/*"],
-  "packageManager": "pnpm@8.6.3",
+  "packageManager": "pnpm@9.15.4",
   "license": "MIT OR Apache-2.0",
   "author": "The OpenINF Authors",
   "devDependencies": {
